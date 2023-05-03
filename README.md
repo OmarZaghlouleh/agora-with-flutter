@@ -1,4 +1,4 @@
-# video_call_app
+# Agora implementation with Flutter.
 
 A new Flutter project.
 
